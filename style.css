@@ -12,14 +12,14 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background: #87b5b5;
+  background: #b96769;
   margin: 10px 0;
 }
 
 .colorScheme,
 .previewWrap,
 .editorWrap textarea {
-  background-color: #c0d8d8;
+  background-color: #caadad;
   border: 1px solid #1d2f2f;
   box-shadow: 1px 1px 10px 2px #3a5f5f;
   border-top: none;
@@ -28,7 +28,7 @@ body {
 .toolbar {
   display: flex;
   align-items: center;
-  background-color: #4aa3a3;
+  background-color: #c66567;
   padding: 0.3rem;
   border: 1px solid #1d2f2f;
   box-shadow: 1px 1px 10px 2px #3a5f5f;
@@ -143,14 +143,14 @@ body {
   padding: 3px;
 }
 #preview code {
-  background: white;
+  background: rgb(240, 236, 236);
   font-size: 0.875rem;
   font-weight: bold;
 }
 #preview pre {
   display: block;
   overflow: auto;
-  background: white;
+  background: rgb(240, 236, 236);
   padding: 5px;
   line-height: 1.2;
 }
